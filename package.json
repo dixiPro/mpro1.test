@@ -18,6 +18,8 @@
         "@element-plus/icons-vue": "^2.3.2",
         "@vitejs/plugin-vue": "^6.0.3",
         "element-plus": "^2.13.2",
+        "ky": "^1.14.3",
+        "pinia": "^3.0.4",
         "vue": "^3.5.27"
     }
 }
